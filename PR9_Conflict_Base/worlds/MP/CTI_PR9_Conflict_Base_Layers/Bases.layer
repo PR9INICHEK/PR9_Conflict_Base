@@ -1,0 +1,23 @@
+CommentEntity AboutNamesOfPrefabs2 {
+ coords 90.529 1 174.321
+ angleX 1.786
+ angleY -0.084
+ angleZ -2.685
+ m_Comment "Best practice - use cardinal directions or Town/Village names in the names of points"
+ m_Color 0 0 0
+ m_FaceCamera 1
+ m_TextBackground 1
+ m_BackgroundColor 1 0.597 0
+ m_BackgroundTransparency 0
+}
+GenericEntity MilitaryBaseTownOrVillageName_1 : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
+ components {
+  SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+   m_sBaseName "#AR-Campaign_MapLocation_Airbase"
+   m_sBaseNameUpper "#AR-Campaign_MapLocation_Airbase-UC"
+   m_sMapLocationName "LocationAirport"
+  }
+ }
+ coords 157.104 1 186.448
+ angleY 175.982
+}

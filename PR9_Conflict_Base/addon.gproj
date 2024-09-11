@@ -1,0 +1,8 @@
+GameProject {
+ ID "PR9ConflictBase"
+ GUID "6257137526B28BDD"
+ TITLE "PR9_Conflict_Base"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

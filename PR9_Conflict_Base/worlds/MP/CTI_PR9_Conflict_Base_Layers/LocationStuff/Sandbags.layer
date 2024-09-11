@@ -1,0 +1,35 @@
+GenericEntity : "{07D58C64654F71A3}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_03.et" {
+ angleY -124.783
+}
+GenericEntity : "{3AE1A95C1023F894}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_04.et" {
+ angleX -2.807
+ angleY -19.137
+ angleZ 0.791
+}
+GenericEntity : "{8E1DF47DD56E69E6}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_01.et" {
+ angleY 139.41
+ angleZ -1.827
+ {
+  GenericEntity {
+   ID "5CCCBEE868D6B36C"
+   coords -2.604 -0.048 -0.011
+   angleX -0.982
+   angleY -93.141
+   angleZ 3.229
+  }
+ }
+}
+GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_01.et" {
+ angleY -79.972
+ angleZ -0.764
+}
+GenericEntity : "{CE74090473B270DE}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_SandbagPosition_S_FIA_01.et" {
+ angleX -7.832
+ angleY -102.017
+ angleZ 1.661
+}
+GenericEntity : "{E249C09D69AAE6C8}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_USSR_02.et" {
+ angleX 0.053
+ angleY 16.655
+ angleZ 1.102
+}

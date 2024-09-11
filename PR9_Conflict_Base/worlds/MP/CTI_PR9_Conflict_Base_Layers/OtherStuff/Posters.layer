@@ -1,0 +1,34 @@
+GenericEntity : "{3828F18C8638E553}Prefabs/Props/Commercial/Posters/PosterSingle_01_Eden.et" {
+ coords 5.636 1.252 5.367
+ angleY -120
+}
+GenericEntity : "{77CAE2EDD210D7F2}Prefabs/Props/Commercial/Posters/PostersGround_01_Eden_Single.et" {
+ coords 5 1 5
+ angleY -154.17
+}
+GenericEntity : "{8AD76C341BFCF8C5}Prefabs/Props/Commercial/Posters/PostersGround_01_Eden_V1.et" {
+ coords 3.999 1.055 4.002
+ angleX -2.46
+ angleY -63.061
+ angleZ 1.416
+}
+GenericEntity : "{96B440F2A3D3A33E}Prefabs/Props/Commercial/Posters/PosterSet_E_01_Eden_V1.et" {
+ coords 3 1.205 3
+ angleY -148.472
+}
+GenericEntity : "{B657FAF316AAC342}Prefabs/Props/Commercial/Posters/PosterSet_02.et" {
+ coords 7.343 1.381 5.309
+ angleY -118
+}
+GenericEntity : "{DB166ED7FC9F713A}Prefabs/Props/Commercial/Posters/PosterSet_02_V1.et" {
+ coords 3.883 1.547 6.984
+ angleX 0.317
+ angleY 139.397
+ angleZ -3.46
+}
+GenericEntity : "{E68358D4A73877EB}Prefabs/Props/Commercial/Posters/PostersGround_01_Eden.et" {
+ coords 6.791 1.174 2.923
+ angleX 1.253
+ angleY -126.86
+ angleZ 0.179
+}

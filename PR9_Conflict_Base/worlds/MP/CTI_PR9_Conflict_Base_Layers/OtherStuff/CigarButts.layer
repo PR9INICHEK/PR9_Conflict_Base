@@ -1,0 +1,6 @@
+DecalEntity : "{CA8AB522F7C90A28}Prefabs/Decals/Miscellaneous/CigarButts_01.et" {
+ coords 10 1.001 1
+ angleX -89.96
+ angleY 121.122
+ angleZ 180
+}
